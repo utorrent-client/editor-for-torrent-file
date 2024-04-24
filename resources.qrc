@@ -1,0 +1,57 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <!-- drawed special for Torrent File Editor and published for free -->
+        <file>./icons/app_32.png</file>
+        <file>./icons/app_64.png</file>
+
+        <!-- from Oxygen team http://www.oxygen-icons.org/ -->
+        <!-- http://www.iconsearch.ru/detailed/19428/1/ -->
+        <file>./icons/hammer.png</file>
+
+        <!-- from FatCow project http://www.fatcow.com/free-icons -->
+        <!-- link to icons archive http://www.fatcow.com/images/fatcow-icons/fatcow-hosting-icons-3.9.2-all.zip -->
+        <!-- licensed under CC Attribution 4.0 http://creativecommons.org/licenses/by/4.0/ -->
+        <file>./icons/files-filter.png</file>
+
+        <!-- from iconify design https://icon-sets.iconify.design/emojione/hot-beverage/ -->
+        <!-- author Emoji One -->
+        <!-- licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ -->
+        <file>./icons/hot-beverage.png</file>
+
+        <!-- https://www.webmoney.ru/img/icons/wmlogo_16.png -->
+        <file>./icons/wmlogo_16.png</file>
+
+        <!-- https://money.yandex.ru/partners/doc.xml?id=522991 -->
+        <file>./icons/iomoney.png</file>
+
+        <!-- icons token from gnome-icon-theme Fedora RPM package -->
+        <file>./icons/gnome/index.theme</file>
+        <file>./icons/gnome/16x16/applications-internet.png</file>
+        <file>./icons/gnome/16x16/document-new.png</file>
+        <file>./icons/gnome/16x16/edit-clear.png</file>
+        <file>./icons/gnome/16x16/edit-copy.png</file>
+        <file>./icons/gnome/16x16/edit-delete.png</file>
+        <file>./icons/gnome/16x16/edit-find-replace.png</file>
+        <file>./icons/gnome/16x16/edit-find.png</file>
+        <file>./icons/gnome/16x16/folder-new.png</file>
+        <file>./icons/gnome/16x16/list-add.png</file>
+        <file>./icons/gnome/16x16/list-remove.png</file>
+        <file>./icons/gnome/16x16/text-x-generic.png</file>
+        <file>./icons/gnome/16x16/view-refresh.png</file>
+        <file>./icons/gnome/16x16/x-office-calendar.png</file>
+        <file>./icons/gnome/14x14/applications-internet.png</file>
+        <file>./icons/gnome/14x14/document-new.png</file>
+        <file>./icons/gnome/14x14/edit-clear.png</file>
+        <file>./icons/gnome/14x14/edit-copy.png</file>
+        <file>./icons/gnome/14x14/edit-delete.png</file>
+        <file>./icons/gnome/14x14/edit-find-replace.png</file>
+        <file>./icons/gnome/14x14/edit-find.png</file>
+        <file>./icons/gnome/14x14/folder-new.png</file>
+        <file>./icons/gnome/14x14/list-add.png</file>
+        <file>./icons/gnome/14x14/list-remove.png</file>
+        <file>./icons/gnome/14x14/text-x-generic.png</file>
+        <file>./icons/gnome/14x14/view-refresh.png</file>
+        <file>./icons/gnome/14x14/x-office-calendar.png</file>
+    </qresource>
+</RCC>

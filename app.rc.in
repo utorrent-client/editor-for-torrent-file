@@ -1,0 +1,39 @@
+# if defined(UNDER_CE)
+#  include <winbase.h>
+# else
+#  include <winver.h>
+# endif
+
+TORRENT_FILE_EDITOR_ICON ICON DISCARDABLE "icons/app.ico"
+
+VS_VERSION_INFO VERSIONINFO
+	FILEVERSION 0,0,0,1
+	PRODUCTVERSION 0,0,0,1
+	FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+	FILEFLAGS VS_FF_DEBUG
+#else
+	FILEFLAGS 0x0L
+#endif
+	FILEOS VOS__WINDOWS32
+	FILETYPE VFT_APP
+	FILESUBTYPE 0x0L
+	BEGIN
+		BLOCK "StringFileInfo"
+		BEGIN
+			BLOCK "040904B0"
+			BEGIN
+				VALUE "FileDescription", "Torrent File Editor"
+				VALUE "CompanyName", "Ivan Romanov"
+				VALUE "LegalCopyright", "Copyleft 2014-2017 by Ivan Romanov"
+				VALUE "ProductName", "Torrent File Editor"
+				VALUE "ProductVersion", "@APP_VERSION@"
+			END
+		END
+
+		BLOCK "VarFileInfo"
+		BEGIN
+			VALUE "Translation", 0x0409, 0x04B0
+		END
+	END
+/* End of Version info */

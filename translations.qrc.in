@@ -1,0 +1,30 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/translations">
+        <file>torrentfileeditor_af.qm</file>
+        <file>torrentfileeditor_ar.qm</file>
+        <file>torrentfileeditor_bn.qm</file>
+        <file>torrentfileeditor_cs.qm</file>
+        <file>torrentfileeditor_de.qm</file>
+        <file>torrentfileeditor_en.qm</file>
+        <file>torrentfileeditor_es.qm</file>
+        <file>torrentfileeditor_fi.qm</file>
+        <file>torrentfileeditor_fr.qm</file>
+        <file>torrentfileeditor_he.qm</file>
+        <file>torrentfileeditor_hu.qm</file>
+        <file>torrentfileeditor_id.qm</file>
+        <file>torrentfileeditor_it.qm</file>
+        <file>torrentfileeditor_ja.qm</file>
+        <file>torrentfileeditor_ko.qm</file>
+        <file>torrentfileeditor_nl.qm</file>
+        <file>torrentfileeditor_pl.qm</file>
+        <file>torrentfileeditor_pt.qm</file>
+        <file>torrentfileeditor_ro.qm</file>
+        <file>torrentfileeditor_ru.qm</file>
+        <file>torrentfileeditor_tr.qm</file>
+        <file>torrentfileeditor_uk.qm</file>
+        <file>torrentfileeditor_vi.qm</file>
+        <file>torrentfileeditor_zh_CN.qm</file>
+        <file>torrentfileeditor_zh_TW.qm</file>
+    </qresource>
+</RCC>
